@@ -11,13 +11,13 @@ can understand natural language and generate human-like responses.
 <h1 align="centre">REQUIREMENTS</h1>
 <p>1.Python: We use python as a programming language for building the application. 
 
-2. gradio: Gradio is the fastest way to demo your machine learning model with a 
+2.Gradio: Gradio is the fastest way to demo your machine learning model with a 
 friendly web interface. 
 
-3. openai: provides convenient access to the OpenAI API from applications written 
+3.Openai: provides convenient access to the OpenAI API from applications written 
 in the Python language. 
 
-4. OS: This module provides a portable way of using operating system-dependent 
+4.OS: This module provides a portable way of using operating system-dependent 
 functionality. 
 
 5.ChatGPT API: ChatGPT can be used to generate responses to questions, code, 
